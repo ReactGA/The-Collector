@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _PbrFresnel
+  m_Shader: {fileID: -6465566751694194690, guid: cb5360ebdbc67714da71c84e4303cc35,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_A4E0278D: 3.26
+    - _Metalic: 1
+    - _Smoothness: 0.529
+    - _SmothnessScale: 9.67
+    - _fresnelPower: 5.29
+    m_Colors:
+    - Color_1F761088: {r: 1.554406, g: 1.384531, b: 0, a: 0}
+    - Color_A6086365: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0}

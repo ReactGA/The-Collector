@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TelepotTraing
+  m_Shader: {fileID: -6465566751694194690, guid: 3af4233b6ea11f3418e4fc785931ec10,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors:
+    - Color_1723F47D: {r: 0, g: 0, b: 0, a: 0.14901961}
+    - Color_53250F35: {r: 1, g: 0.6367924, b: 0.6367924, a: 0.2901961}
+    - Color_5F3E835E: {r: 0.7058823, g: 0, b: 0, a: 0.13333334}
+    - Color_B15D2827: {r: 0, g: 0.052369833, b: 1, a: 0.45490196}
